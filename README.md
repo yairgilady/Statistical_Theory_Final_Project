@@ -21,6 +21,6 @@ Stress Level: Stress level on a scale of 1 to 10. \
 Blood Sugar: Fasting blood sugar level in mg/dL. \
 Exercise Induced Angina: Presence of exercise-induced angina (Yes/No). \
 Chest Pain Type: Type of chest pain experienced (Typical Angina/Atypical Angina/Non-anginal Pain/Asymptomatic). \ 
-Heart Disease: Target variable indicating presence of heart disease (0: No, 1: Yes). \
+Heart Disease: Target variable indicating presence of heart disease (0: No, 1: Yes). 
 
 
