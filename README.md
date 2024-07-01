@@ -5,7 +5,7 @@ This is where I'm going to put all the files I intend of using in order to compl
 https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
 
 ## Description of the data:
-the data composes of 1000 rows over 16 columns (features) which consists of: 
+#### the data composes of 1000 rows over 16 columns (features) which consists of: 
 Age: Age of the individual (years).
 Gender: Gender of the individual (Male/Female).
 Cholesterol: Cholesterol level in mg/dL.
