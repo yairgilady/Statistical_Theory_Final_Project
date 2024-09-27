@@ -4,6 +4,13 @@ This is where I'm going to put all the files I intend of using in order to compl
 ## Link for the data:
 https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
 
+## How to look the at the work
+The github contain several parts. 
+#### 1.The main work in pdf file called Final_Work
+#### 2.a brunch with the code (in jupyter notebooks form)
+#### 3. three dataset that we used in our work.
+
+
 ## Description of the data:
 #### the data composes of 1000 rows over 16 columns (features) which consists of: 
 Age: Age of the individual (years). \
