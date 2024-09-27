@@ -6,10 +6,10 @@ https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
 
 ## How to look the at the work
 The github contain several parts. 
-#### 1.The main work in pdf file called Final_Work
-#### 2.a brunch with the code (in jupyter notebooks form)
-#### 3. three dataset that we used in our work.
-
+#### 1. The main work in pdf file called Final_Work
+#### 2. A brunch with the code (in jupyter notebooks form)
+#### 3. Three dataset that we used in our work.
+##### Make sure the you use the right dataset when checking the work based on what's in the code, our main dataset is "heart_disease_dataset.csv" and the two other are for checking.
 
 ## Description of the data:
 #### the data composes of 1000 rows over 16 columns (features) which consists of: 
