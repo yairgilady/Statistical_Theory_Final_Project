@@ -1,16 +1,14 @@
 # Statistical_Theory_Final_Project
 This is where I'm going to put all the files I intend of using in order to complete my work on my final project for the course statisctial theory
 
-## Link for the data:
-https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
-
-## How to look the at the work
+# How to look the at the work
 The github contain several parts. 
 #### 1. The main work in pdf file called Final_Work
 #### 2. A Folder with the code (in jupyter notebooks form)
 ##### there is a cleaning data code, but I gave you the final data after cleaning, so no need to run it.
 #### 3. Three dataset that we used in our work in the folder Datasets.
 ##### Make sure the you use the right dataset when checking the work based on what's in the code, our main dataset is "heart_disease_dataset.csv" and the two other are for confirming results.
+
 
 
 ## Description of the data:
